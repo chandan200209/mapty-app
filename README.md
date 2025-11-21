@@ -26,8 +26,8 @@ Empower your fitness journey with a slick geolocation-powered web application th
 | Leaflet Library   | Interactive Map Integration        |
 
 ## 🚀 How It Works
-Allow the browser to detect your location
-Click on the map wherever inspiration (or sweat) hits you
-Log your workout metrics using the intuitive form
-Watch as your workouts populate the map & list in real time
+Allow the browser to detect your location<br>
+Click on the map wherever inspiration (or sweat) hits you<br>
+Log your workout metrics using the intuitive form<br>
+Watch as your workouts populate the map & list in real time<br>
 Keep pushing boundaries — the map updates to follow your success 🏆
